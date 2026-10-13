@@ -24,8 +24,8 @@ A wide-layout Streamlit dashboard that tracks books read, ratings, and reading g
 1. Clone the repo and move into the folder:
 
    ```bash
-   git clone https://github.com/Lena6779/Reading-Dashboard.git
-   cd Reading-Dashboard
+   git clone https://github.com/Lena6779/Reading_Dashboard.git
+   cd Reading_Dashboard
    ```
 
 2. Create and activate a virtual environment:
